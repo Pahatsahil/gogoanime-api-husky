@@ -1,7 +1,8 @@
 import { IGoGoAnimeConfig } from './types';
 
 export const DEFAULT_CONFIG: IGoGoAnimeConfig = {
-  baseUrl: 'https://gogoanime.ai',
+  // baseUrl: 'https://gogoanime.ai',
+    baseUrl: 'https://anitaku.to/',
   apiBaseUrl: 'https://ajax.gogo-load.com'
 };
 
